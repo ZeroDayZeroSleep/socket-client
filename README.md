@@ -1,13 +1,16 @@
-httpclient  
+# httpclient  
+
 A simple command-line HTTP client tool built in Python for sending HTTP GET and POST requests.
+Since I update my code with new ideas, i need to update the README.md file accordingly. 
+I need a bit of time to work through an idea, then update the README.md file when done.
 
 # Features
-  Send HTTP GET and POST requests from the command line
-  Specify target hostname and port
-  Add custom HTTP headers
-  Send data with POST requests
-  Save server responses to a file
-  Simple, intuitive commands and options
+  - Send HTTP GET and POST requests from the command line
+  - Specify target hostname and port
+  - Add custom HTTP headers
+  - Send data with POST requests
+  - Save server responses to a file
+  - Simple, intuitive commands and options
 
 # Installation
 Make sure you have Python 3 installed.
