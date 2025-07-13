@@ -1,4 +1,4 @@
- - httpclient - 
+httpclient  
 A simple command-line HTTP client tool built in Python for sending HTTP GET and POST requests.
 
 # Features
